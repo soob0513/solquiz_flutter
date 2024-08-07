@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+
+  android_12:
+    image: image/solQuiz_logo2_bg3.png
+    color: "#FFFFFF"
+    icon_background_color: "#FFFFFF"
+    fullscreen: true
